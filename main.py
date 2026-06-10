@@ -34,8 +34,6 @@ from handlers.settings import (
     set_lang_en, set_lang_ar, set_lang_ru,
     my_profile, bot_info,
     start_set_gif, receive_welcome_gif,
-    start_set_dev, receive_dev_name, receive_dev_id,
-    receive_dev_username, receive_dev_photo
 )
 from handlers.stats import (
     stats_menu, all_content, popular_content,
