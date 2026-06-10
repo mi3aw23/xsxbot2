@@ -86,12 +86,7 @@ logger = logging.getLogger(__name__)
 CONTENT_STATE_HANDLERS = {
     "waiting_content":          receive_content,
     "waiting_delete_time":      receive_delete_time,
-    "waiting_admin_id":         receive_admin_id,
     "waiting_welcome_gif":      receive_welcome_gif,
-    "waiting_dev_name":         receive_dev_name,
-    "waiting_dev_id":           receive_dev_id,
-    "waiting_dev_username":     receive_dev_username,
-    "waiting_dev_photo":        receive_dev_photo,
     # Dev tool states
     "dev_waiting_search_user":  dev_receive_search_user,
     "dev_waiting_ban_user":     dev_receive_ban_user,
