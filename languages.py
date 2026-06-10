@@ -44,7 +44,6 @@ TEXTS = {
         "btn_profile": "My Profile",
         "btn_bot_info": "Bot Info",
         "btn_set_gif": "Set Welcome GIF",
-        "btn_set_dev": "Set Dev Info",
 
         # Language menu buttons
         "btn_lang_en": "English",
