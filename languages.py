@@ -1,8 +1,8 @@
 TEXTS = {
     "en": {
-        "welcome_line1": "WELCOME TO XSX BOT",
+        "welcome_line1": "WELCOME TO 333 BOT",
         "welcome_line2": "STAY UPDATED WITH OUR CHANNEL.",
-        "welcome_line3": "TEAM XSX",
+        "welcome_line3": "TEAM 333",
         "no_access": "You do not have access to use this bot.",
         "choose_option": "Choose an option:",
         "back": "Back",
@@ -284,9 +284,9 @@ TEXTS = {
     },
 
     "ar": {
-        "welcome_line1": "WELCOME TO XSX BOT",
+        "welcome_line1": "WELCOME TO 333 BOT",
         "welcome_line2": "STAY UPDATED WITH OUR CHANNEL.",
-        "welcome_line3": "TEAM XSX",
+        "welcome_line3": "TEAM 333",
         "no_access": "ليس لديك صلاحية لاستخدام هذا البوت.",
         "choose_option": "اختر خياراً:",
         "back": "رجوع",
@@ -555,9 +555,9 @@ TEXTS = {
     },
 
     "ru": {
-        "welcome_line1": "WELCOME TO XSX BOT",
+        "welcome_line1": "WELCOME TO 333 BOT",
         "welcome_line2": "STAY UPDATED WITH OUR CHANNEL.",
-        "welcome_line3": "TEAM XSX",
+        "welcome_line3": "TEAM 333",
         "no_access": "У вас нет доступа к этому боту.",
         "choose_option": "Выберите опцию:",
         "back": "Назад",
