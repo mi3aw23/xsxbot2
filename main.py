@@ -1,3 +1,5 @@
+import keep_alive
+keep_alive.keep_alive()
 import logging
 import asyncio
 from telegram import Update
